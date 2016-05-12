@@ -16,7 +16,6 @@ class DetailViewController: UIViewController, UITextFieldDelegate, UINavigationC
     @IBOutlet weak var nameField: UITextField!
     @IBOutlet var imageView: UIImageView!
     
-    
     var item: Item! {
         didSet {
             navigationItem.title = item.name 
