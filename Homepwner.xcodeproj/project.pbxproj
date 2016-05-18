@@ -72,8 +72,8 @@
 				4BDF843B1CE4E8FC0016F070 /* ImageStore.swift */,
 				4BDF84391CE3CE610016F070 /* DetailViewController.swift */,
 				4BDF84331CE2AC2E0016F070 /* Items.swift */,
-				4BDF84351CE2B15A0016F070 /* ItemStore.swift */,
 				4BDF84311CE2A9D40016F070 /* ItemsViewController.swift */,
+				4BDF84351CE2B15A0016F070 /* ItemStore.swift */,
 				4BDF84371CE3A0560016F070 /* ItemCell.swift */,
 				4BDF84261CE2A0BA0016F070 /* Assets.xcassets */,
 				4BDF84281CE2A0BA0016F070 /* LaunchScreen.storyboard */,
@@ -310,6 +310,7 @@
 				4BDF84301CE2A0BA0016F070 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
